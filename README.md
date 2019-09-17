@@ -1,2 +1,2 @@
 # hello-world
-Attempting to learn how to use GitHub
+Attempting to create a branch
